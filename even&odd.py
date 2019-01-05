@@ -8,5 +8,5 @@ result=x%2
 if (result==0):
     print("Number entered by you is even")
 
-if (result==1):
+else:
     print("Number entered by you is odd")
